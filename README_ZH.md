@@ -1,6 +1,7 @@
 # STM32‑HAL‑SPI‑LCD‑128x160
 > STM32 HAL库驱动 SPI 接口 LCD 屏，分辨率 128*160，支持字符、数字、中文、图片显示。
-> > [![Example picture](https://raw.githubusercontent.com/k1271max/STM32-TFT-Driver/refs/heads/main/Example%20picture.jpg "Example Picture")]()
+> [![GitHub stars](https://img.shields.io/github/stars/k1271max/STM32-TFT-Driver.svg)](https://github.com/k1271max/STM32-TFT-Driver)
+> [![Example picture](https://raw.githubusercontent.com/k1271max/STM32-TFT-Driver/refs/heads/main/Example%20picture.jpg "Example Picture")]()
 ## 📖 项目简介
 本项目基于 **STM32 HAL库**，实现 SPI 模式驱动 128×160 彩色LCD屏幕。
 - ✅ 底层LCD硬件驱动
@@ -235,5 +236,5 @@ YELLOW  0xFFE0
 3. 中文字库仅内置少量GBK汉字，需要更多汉字需要使用字模工具补充`hz16[]`数组。
 4. HAL库工程需要保证系统时钟配置正确。
 ## 🙋 反馈
-如有bug、问题欢迎提交 [Issues](https://github.com/yourname/STM32‑HAL‑SPI‑LCD‑128x160/issues)。
+如有bug、问题欢迎提交 [Issues](https://github.com/k1271max/STM32-TFT-Driver/issues)。
 ```翻译为英文
