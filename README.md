@@ -1,6 +1,7 @@
 # STM32‑HAL‑SPI‑LCD‑128x160 [中文|Chinese](https://github.com/k1271max/STM32-TFT-Driver/blob/main/README_ZH.md "查看中文文档")
 > 
 > STM32 HAL library driver for SPI‑interface LCD screen, 128*160 resolution, supporting character, number, Chinese and image display.
+> [![GitHub stars](https://img.shields.io/github/stars/yourname/STM32‑HAL‑SPI‑LCD‑128x160.svg)](https://github.com/k1271max/STM32-TFT-Driver)
 > [![Example picture](https://raw.githubusercontent.com/k1271max/STM32-TFT-Driver/refs/heads/main/Example%20picture.jpg "Example Picture")]()
 
 ## 📖 Project Introduction
@@ -157,4 +158,4 @@ MIT License
 
 ## 🙋 Feedback
 
-For bugs and questions, please open an [Issues](https://github.com/yourname/STM32%E2%80%91HAL%E2%80%91SPI%E2%80%91LCD%E2%80%91128x160/issues).
+For bugs and questions, please open an [Issues](https://github.com/k1271max/STM32-TFT-Driver/issues).
